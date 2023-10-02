@@ -3,7 +3,7 @@ void main()
   //------------------------------pertemuan 1----------------------------------
   print("-------------------------Pertemuan 1----------------------------------");
   print ("Jesen Ong");
-  
+  //a
   //menyimpan teks dalam variabel string
   String pesan = "Apa kabar?", 
          nama = "Jesen Ong"; //dengan tipe data
